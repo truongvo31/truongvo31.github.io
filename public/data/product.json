@@ -1,0 +1,98 @@
+[
+    {
+        "id": "1",
+        "name": "Stretch Slim Jeans",
+        "price": "¥3.990",
+        "sale": "¥3.490",
+        "category": ["jeans", "pants"],
+        "image": "jeans/item1.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Original Hoodie",
+        "price": "¥6.990",
+        "sale": "¥5.490",
+        "category": ["hoodie", "coat"],
+        "image": "new-arrival-item/1.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Jogger Pants",
+        "price": "¥2.490",
+        "sale": "¥2.090",
+        "category": ["pants"],
+        "image": "new-arrival-item/2.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Original Tote Bag",
+        "price": "¥1.500",
+        "sale": "¥990",
+        "category": ["accessory"],
+        "image": "new-arrival-item/3.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Sweatshirts (Long sleeve)",
+        "price": "¥2.990",
+        "sale": "¥2.490",
+        "category": ["shirt"],
+        "image": "new-arrival-item/4.jpg"
+    },
+    {
+        "id": "6",
+        "name": "Stretch Coat",
+        "price": "¥6.490",
+        "sale": "¥4.990",
+        "category": ["coat"],
+        "image": "new-arrival-item/5.jpg"
+    },
+    {
+        "id": "7",
+        "name": "Petite Coat",
+        "price": "¥2.990",
+        "sale": "¥2.490",
+        "category": ["coat"],
+        "image": "new-arrival-item/6.jpg"
+    },
+    {
+        "id": "8",
+        "name": "Stretch Slim Jeans",
+        "price": "¥2.990",
+        "sale": "¥2.490",
+        "category": ["jeans", "pants"],
+        "image": "new-arrival-item/7.jpg"
+    },
+    {
+        "id": "9",
+        "name": "Stretch Coat",
+        "price": "¥5.490",
+        "sale": "¥4.990",
+        "category": ["coat"],
+        "image": "new-arrival-item/8.jpg"
+    },
+    {
+        "id": "10",
+        "name": "Jogger Pants",
+        "price": "¥4.990",
+        "sale": "¥3.990",
+        "category": ["pants"],
+        "image": "new-arrival-item/9.jpg"
+    },
+    {
+        "id": "11",
+        "name": "T-Shirt (Short sleeve)",
+        "price": "¥1.490",
+        "sale": "¥990",
+        "category": ["shirt"],
+        "image": "new-arrival-item/10.jpg"
+    },
+    {
+        "id": "12",
+        "name": "Daun Jacket",
+        "price": "¥2.490",
+        "sale": "¥1.990",
+        "category": ["coat"],
+        "image": "new-arrival-item/11.jpg"
+    }
+]
